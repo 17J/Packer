@@ -46,7 +46,7 @@ terraform destroy
 
 ## Prerequisites
 
-- **Packer: Install Packer from the official HashiCorp website.
-- **Terraform: Install Terraform from the official HashiCorp website.
-- **Cloud Provider CLI (if applicable): Install and configure the CLI for your chosen cloud provider (AWS CLI, Azure CLI, GCP CLI, etc.).
-- **Cloud Provider Credentials: Configure your cloud provider credentials for Packer and Terraform to access your cloud resources.
+- Packer: Install Packer from the official HashiCorp website.
+- Terraform: Install Terraform from the official HashiCorp website.
+- Cloud Provider CLI (if applicable): Install and configure the CLI for your chosen cloud provider (AWS CLI, Azure CLI, GCP CLI, etc.).
+- Cloud Provider Credentials: Configure your cloud provider credentials for Packer and Terraform to access your cloud resources.
